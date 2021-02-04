@@ -1,0 +1,13 @@
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\bin\Debug\netcoreapp3.1\AtliKarinca.exe
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\bin\Debug\netcoreapp3.1\AtliKarinca.deps.json
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\bin\Debug\netcoreapp3.1\AtliKarinca.runtimeconfig.json
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\bin\Debug\netcoreapp3.1\AtliKarinca.runtimeconfig.dev.json
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\bin\Debug\netcoreapp3.1\AtliKarinca.dll
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\bin\Debug\netcoreapp3.1\AtliKarinca.pdb
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\obj\Debug\netcoreapp3.1\AtliKarinca.csprojAssemblyReference.cache
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\obj\Debug\netcoreapp3.1\AtliKarinca.AssemblyInfoInputs.cache
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\obj\Debug\netcoreapp3.1\AtliKarinca.AssemblyInfo.cs
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\obj\Debug\netcoreapp3.1\AtliKarinca.csproj.CoreCompileInputs.cache
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\obj\Debug\netcoreapp3.1\AtliKarinca.dll
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\obj\Debug\netcoreapp3.1\AtliKarinca.pdb
+E:\.net_core_app\AdaYazilim\AtliKarinca\AtliKarinca\obj\Debug\netcoreapp3.1\AtliKarinca.genruntimeconfig.cache
