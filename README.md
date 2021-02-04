@@ -28,9 +28,3 @@ Bu rakamlar gruplardaki kişi sayısını belirtecek. Örnek Input
 
 Output
 Program toplam kazanılan parayı yazacak 
-
-Optimizasyon İpuçları
-
-1 – Sıranın o anki durumu için önceden hesaplama yapıldıysa yeniden hesaplama yerine önceden hesaplamanın sonucu kullanılabilir.
-
-2 – En fazla N + 1 tur sonra sıranın durumu önceki durumlardan biri haline gelecek ve bir döngü oluşacaktır.   
